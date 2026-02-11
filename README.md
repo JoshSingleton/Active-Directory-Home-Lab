@@ -5,7 +5,9 @@
 Simulate an enterprise domain environment to practice real world Tier 1 help desk tasks, including account provisioning, access management, and Group Policy enforcement.
 
 ## Architecture
-IMAGE
+<img width="749" height="976" alt="AD_NetDiag" src="https://github.com/user-attachments/assets/e97ce461-ad09-4bc8-9780-7b4714ac8139" />
+
+
 
 ## Demo 1 -- User Lifecycle management
 ### Tasks performed:
@@ -17,7 +19,7 @@ IMAGE
 ### Outcome: 
 User successfully authenticated with correct permissions applied.
 
-LINK
+[Watch Demo Video](https://youtu.be/leTX6cPiY68?si=PZ4BOV9QVsxSbv6P)
 
 ## Demo 2 -- Group Policy Object (GPO) Configuration and Enforcement
 ### Tasks performed:
@@ -29,4 +31,4 @@ LINK
 ### Outcome: 
 Policies applied successfully at the target OU and were verified at login.
 
-LINK
+[Watch Demo Video](https://www.youtube.com/watch?v=R6YuY5uwEfU)
